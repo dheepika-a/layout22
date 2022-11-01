@@ -1,0 +1,462 @@
+  .headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+   .logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.portfolioa .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+ .headera
+{
+	background-color:white;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	height:81px;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:steelblue;
+	height:40px;
+	width:20%;
+	margin-top:10px;
+	
+}
+
+.headera .headera-fc .headb
+{
+	background-color:steelblue;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+.headera .headera-fc  .headc
+{
+	background-color:steelblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .headd
+{
+	background-color:steelblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .heade
+{
+	background-color:steelblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.logo 
+{
+	background-color:beige;
+	height:500px;
+}
+.logo .logo-fc
+{
+display:flex;
+flex-direction:row;
+justify-content:flex-start;
+	
+}
+.logo .logo-fc .logob
+{
+	background-color:violet;
+	height:100px;
+	width:40%;
+	margin-top:150px;
+}
+
+
+.portfolio
+{
+	background-color:beige;
+	height:1400px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+				display:flex;
+	flex-direction:row;
+}
+
+.portfolio .portfolio-fc .porta .pa
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+}
+.portfolio .portfolio-fc .portb
+{
+background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolio .portfolio-fc .portb .pb
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolio .portfolio-fc .portc
+{
+background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;;
+}
+
+.portfolio .portfolio-fc .portc .pc
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+
+
+
+
+.portfolio .portfolio-fc .portd
+
+{
+background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolio .portfolio-fc .portd .pd
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolio .portfolio-fc .porte
+{
+background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolio .portfolio-fc .porte .pe
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolio .portfolio-fc .portf
+{
+	background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolio .portfolio-fc .portf .pf
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolio .portfolio-fc .portg
+
+{
+background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolio .portfolio-fc .portg .pg
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolio .portfolio-fc .porth
+{
+background-color:tomato;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolio .portfolio-fc .porth .ph
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+
+
+
+
+
+
+
+
+
+.portfolioa
+{
+	background-color:lavender;
+	height:1400px;
+}
+.portfolioa .portfolioa-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolioa .portfolioa-fc .textporta
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+
+.portfolioa .portfolioa-fc .pora
+{
+	background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+				display:flex;
+	flex-direction:row;
+}
+
+.portfolioa .portfolioa-fc .pora .poa
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+}
+.portfolioa .portfolioa-fc .porb
+{
+background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolioa .portfolioa-fc .porb .pob
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolioa .portfolioa-fc .porc
+{
+background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;;
+}
+
+.portfolioa .portfolioa-fc .porc .poc
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+
+
+
+
+.portfolioa .portfolioa-fc .pord
+
+{
+background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolioa .portfolioa-fc .pord .pod
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolioa .portfolioa-fc .pore
+{
+background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolioa .portfolioa-fc .pore .poe
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolioa .portfolioa-fc .porf
+{
+	background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolioa .portfolioa-fc .porf .pof
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolioa .portfolioa-fc .porg
+
+{
+background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolioa .portfolioa-fc .porg .pog
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+.portfolioa .portfolioa-fc .porh
+{
+background-color:yellowgreen;
+	height:650px;
+		width:23%;
+			margin-top:10px;
+}
+.portfolioa .portfolioa-fc .porh .poh
+{
+		background-color:green;
+		width:100%;
+		height:50px;
+		margin-top:600px;
+		
+		
+}
+
+.website
+{
+	background-color :black;
+	height:700px;
+}
+.website .website-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	
+	
+}
+
+.website .website-fc .copyrighta
+{
+	background-color:pink;
+	width:50%;
+	height:250px;
+	margin-top:100px;
+}
+.website .website-fc .copyrightb
+{
+	background-color:lavender;
+	width:40%;
+	height:100px;
+	margin-top:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
